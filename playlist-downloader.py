@@ -6,7 +6,7 @@ from urllib2 import urlopen
 import pytube  # pip install pytube
 
 
-CS294_playlist_url = "https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX"
+CS294_playlist_url = "https://www.youtube.com/watch?v=33jaEdbS02s&list=PLmAx0S2DMtLOMMzLscSNd4t_yJz1B2i-u"
 
 
 def get_playlist_links(playlist_url):
